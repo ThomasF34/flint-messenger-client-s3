@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Var Env
+
+You should declare `REACT_APP_BACKEND` as a var env with the backend address.
 
 ## Available Scripts
 
